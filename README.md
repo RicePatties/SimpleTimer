@@ -1,5 +1,5 @@
 # SimpleTimer
-iOS app, Simple Timer - Publishing it to app store is currently underway!
+iOS app, Simple Timer
 
 # Objective
 It is a simple Timer meant to be used while workout, emphasizing it's simple as to not bother your workout.
